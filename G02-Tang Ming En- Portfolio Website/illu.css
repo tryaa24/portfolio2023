@@ -1,0 +1,181 @@
+body {
+    background-color: #493F40;
+    font-family: 'Londrina Solid', sans-serif;
+    max-width: 1680px;
+}
+
+.sidebar {
+
+    left: 0;
+    right: auto;
+    width: 250px;
+    height: 100%;
+}
+
+.sidebar ul {
+    list-style-type: none;
+
+}
+
+.sidebar ul a {
+
+    font-size: 45px;
+    text-decoration: none;
+    color: White;
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 68px;
+    padding-left: 10px;
+    transition: .8s;
+
+}
+
+ul li:hover a {
+
+    color: orange;
+    padding-left: 30px;
+
+}
+
+#kbear {
+
+    width: 50%;
+    margin-left: 50px;
+
+}
+
+#main {
+
+    font-size: 100px;
+    color: #FFDC7F;
+    margin-left: 800px;
+    margin-top: -1000px;
+
+}
+
+#main2 {
+    font-size: 100px;
+    color: #FFDC7F;
+    margin-left: 800px;
+    margin-top: -100px;
+
+}
+
+#koi {
+
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 650px;
+
+}
+
+#poster {
+
+    color: #EBE0CE;
+    font-size: 100px;
+    margin-top: 600px;
+    margin-left: 700px;
+    transform: rotate(-6deg);
+
+}
+
+#finalPos {
+
+    width: 80%;
+    margin-left: 150px;
+
+}
+
+#bro1 {
+
+    width: 50%;
+    margin-left: 650px;
+    margin-top: 150px;
+
+}
+
+#bro2 {
+
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+
+#brocT {
+
+    font-size: 100px;
+    color: #FFDC7F;
+    margin-top: -730px;
+    margin-left: 200px;
+    transform: rotate(14deg);
+
+}
+
+#brocT2 {
+
+    font-size: 65px;
+    color: #EBE0CE;
+    margin-left: 320px;
+    transform: rotate(-15deg);
+    margin-top: -300px;
+}
+
+#vouch {
+
+    color: #FFDC7F;
+    font-size: 100px;
+    margin-top: 1000px;
+    margin-left: 450px;
+
+}
+
+#vouch2 {
+
+    color: #FFDC7F;
+    font-size: 100px;
+    margin-top: -450px;
+    margin-left: 800px;
+
+}
+
+
+#vow1 {
+
+    width: 70%;
+    margin-left: 224px;
+    margin-top: -50px;
+
+}
+
+#vow2 {
+
+    width: 50%;
+    margin-top: 300px;
+    margin-left: 380px;
+
+}
+
+#beepfrog {
+
+    margin-left: 550px;
+    margin-top: 400px;
+
+}
+
+.foot a {
+
+    text-decoration: none;
+    color: #EBE0CE;
+    margin-left: -350px;
+    font-size: 45px;
+}
+
+#icon {
+
+    width: 70%;
+    margin-left: 1250px;
+    margin-top: -200px;
+
+}
